@@ -5,4 +5,4 @@
 4. Run your project with `npm start`
 5. You know the rest :wink:
 
-//tbh im new to this *github* thing
+`tbh im new to this *github* thing`
