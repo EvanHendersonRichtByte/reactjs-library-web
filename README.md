@@ -1,4 +1,4 @@
-> Installation
+> **Installation**
 1. Download **ONLY** `rar` files
 2. Extract all 3 files at once using `winrar`
 3. Open your extracted files with `cmd`
