@@ -1,0 +1,86 @@
+/* home */
+
+#bodyHome{
+  background-color: white !important;
+  height: 1080px;
+  width: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  overflow-y: scroll !important;
+}
+
+#blockquote1{
+  font-size: 20px;
+}
+
+#blockquote2{
+  font-size: 18px;
+}
+
+#contant1image1{
+  background:red;
+  height:auto;
+  width: auto;
+}
+
+.carousel-item{
+  max-height: 600px;
+  padding-bottom: 100px;
+}
+
+#contentHeader{
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+#homeContents2{
+  background-image: url("../Pictures/Library3.jpg");
+}
+
+
+#homeNavbar{
+  background-color: transparent;
+  opacity: 0.6 !important;
+}
+
+#homeNavbarLogo{
+  width:auto;
+  height:50px;
+}
+
+#homeNavbarLogoutLogin{
+  margin-left: 1560px;
+}
+
+#homeFooter{
+  margin-top: 100px;
+}
+
+#courtesyOf{
+  margin-top: 10px;
+}
+/* Carousel */
+
+#carouselIndicator{
+  margin-bottom: 25;
+}
+
+#carouselImage{
+  opacity: 0.9;
+}
+
+#carouselCaption{
+  opacity: 1.0 !important;
+  margin-bottom: 100px;
+}
+
+#carouselAddition{
+  margin-bottom: 50px;
+}
+
+#carouselWelcome{
+  margin-bottom: 200px;
+}
+
